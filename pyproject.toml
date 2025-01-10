@@ -23,6 +23,8 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/AbanteAI/rawdog"
+Documentation = "https://github.com/AbanteAI/rawdog"
+Repository = "https://github.com/AbanteAI/rawdog.git"
 Issues = "https://github.com/AbanteAI/rawdog/issues"
 
 [project.scripts]
